@@ -1,3 +1,8 @@
+# Decentralized Exchange (DEX)
+
+In this project I have created a Decentralized Exchange to exchange ethereum with our own crypto(Ad-Aditya).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
